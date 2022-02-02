@@ -1,4 +1,4 @@
-## Stock Trader: Developer Ergonomics on AWS workshop Sample App
+## Stocks Trader: Developer Ergonomics on AWS workshop Sample App
 
 This application is a serverless stock trading application. It uses an [AWS Step Functions](https://aws.amazon.com/step-functions/) state machine to orchestrate a set of [AWS Lambda](https://aws.amazon.com/lambda/) functions and records transactions in an [Amazon DynamoDB](https://aws.amazon.com/dynamodb) table. It uses AWS SAM and AWS CDK to provision the required resources.
 
